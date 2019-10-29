@@ -16,7 +16,3 @@ class Person
   end
   
 end
-
-
-Beyonce = Person.new("Beyonce")
-Beyonce.name
