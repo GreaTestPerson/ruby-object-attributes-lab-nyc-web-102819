@@ -1,12 +1,12 @@
 class Person
-  def name=(name)
+  def name=(Beyonce)
     @Beyonce
   end
   def name
     @Beyonce
   end
   
-  def job=(job)
+  def job=(Singer)
     @Singer
   end
   def job
