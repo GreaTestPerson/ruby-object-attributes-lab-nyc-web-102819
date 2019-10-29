@@ -1,15 +1,19 @@
 class Person()
   def name=(name)
-    @Beyonce
+    @name
   end
   def name
-    @Beyonce
+    @name
   end
   
   def job=(job)
-    @Singer
+    @job
   end
   def job
-    @Singer
+    @job
   end
 end
+
+
+Beyonce = Person.new("Beyonce")
+Beyonce.name
