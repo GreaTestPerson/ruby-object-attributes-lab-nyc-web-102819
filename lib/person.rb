@@ -7,9 +7,9 @@ class Person
   end
   
   def job=(job)
-    @singer
+    @Singer
   end
   def job
-    @singer
+    @Singer
   end
 end
